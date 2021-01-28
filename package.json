@@ -43,7 +43,7 @@
     "icon:ico": "png2icons app/static/Icon@2x.png build/icon -ico"
   },
   "devDependencies": {
-    "electron": "^1.7.9",
+    "electron": "^9.4.0",
     "electron-builder": "^19.42.2",
     "eslint": "^4.11.0",
     "eslint-config-airbnb-base": "^12.1.0",
